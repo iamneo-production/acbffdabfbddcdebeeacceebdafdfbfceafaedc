@@ -1,3 +1,4 @@
+package com.examly.Springapp;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
